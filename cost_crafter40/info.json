@@ -24,7 +24,7 @@
         "rotary": [
             {"pin_a": "GP18", "pin_b": "GP19"}
         ]
-    }
+    },
     "layouts": {
         "LAYOUT": {
             "layout": [
