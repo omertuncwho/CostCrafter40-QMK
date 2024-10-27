@@ -16,12 +16,7 @@
         "rows": ["GP28", "GP27", "GP6", "GP7", "GP21", "GP22", "GP9", "GP8"]
     },
     
-    "encoder": {
-        "rotary": [
-            {"pin_a": "GP18", "pin_b": "GP19"}
-        ]
-    },
-
+ 
     
     "diode_direction": "COL2ROW",
     "processor": "RP2040",
