@@ -7,3 +7,6 @@
 /* Indicator LEDs */
 #define LED_CAPS_LOCK_PIN GP25
 #define LED_PIN_ON_STATE 1
+
+#define ENCODER_A_PINS { B18 }
+#define ENCODER_B_PINS { B19 }
