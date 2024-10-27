@@ -15,6 +15,14 @@
         "cols": ["GP5", "GP4", "GP0", "GP1", "GP3", "GP12", "GP14", "GP15", "GP11", "GP10"],
         "rows": ["GP28", "GP27", "GP6", "GP7", "GP21", "GP22", "GP9", "GP8"]
     },
+    
+    "encoder": {
+        "rotary": [
+            {"pin_a": "GP18", "pin_b": "GP19"}
+        ]
+    },
+
+    
     "diode_direction": "COL2ROW",
     "processor": "RP2040",
     "bootloader": "rp2040",
